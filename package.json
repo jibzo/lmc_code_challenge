@@ -1,0 +1,14 @@
+{
+  "name": "lmc_code_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ./test.js --watch"
+  },
+  "author": "Adam Hurst",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
