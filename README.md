@@ -3,7 +3,7 @@
 ## Hey there!
 
 The main goal here is just to
-do doing some classic programming workouts!
+do doing some classic programming challenges!
 
 ## The Challenge is to fix index.js so all the tests pass
 
